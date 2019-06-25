@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  PlannenTest
+
+  Created by Carolain Lenes Beltran on 21/06/19.
+  Copyright © 2019 Simpleapp SAS. All rights reserved.
+*/
+
+//All Screen
+noInternet = "No hay conexión a Internet";
+errorService = "Ocurrió un error, intente nuevamente";
+
+// Login
+login.emptyField = "Estos campos no pueden ir vacíos";
+login.emailValidator = "El correo ingresado no es válido";
+login.errorResponseSignIn = "El correo o contraseña son incorrectos, por favor verifique nuevamente";
+loginLabel = "Iniciar sesión";
+userTextField = "Usuario";
+passwordTextField = "Contraseña";
+loginButton = "Ingresar";
+
+// Customers
+customerLabel = "Clientes";
+

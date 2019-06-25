@@ -1,0 +1,6 @@
+framework module Pods_PlannenTest {
+  umbrella header "Pods-PlannenTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
